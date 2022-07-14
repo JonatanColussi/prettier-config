@@ -1,0 +1,23 @@
+{
+  "name": "@colussi/prettier-config",
+  "version": "0.0.0",
+  "description": "Shared prettier config",
+  "author": "Jonatan Colussi <jonatancolussi81@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JonatanColussi/prettier-config.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JonatanColussi/prettier-config/issues"
+  },
+  "homepage": "https://github.com/JonatanColussi/prettier-config",
+  "main": "prettier.json",
+  "files": [
+    "prettier.json"
+  ],
+  "keywords": [
+    "prettier",
+    "config"
+  ],
+  "license": "MIT"
+}
