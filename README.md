@@ -1,6 +1,6 @@
 # @colussi/prettier-config
 
-[![npm version](https://badge.fury.io/js/@colussi%2Fprettier-config.svg)](https://badge.fury.io/js/@colussi%2Fprettier-config)[![CI](https://github.com/JonatanColussi/prettier-config/actions/workflows/main.yml/badge.svg?event=workflow_dispatch)](https://github.com/JonatanColussi/prettier-config/actions/workflows/main.yml)
+[![npm version](https://badge.fury.io/js/@colussi%2Fprettier-config.svg)](https://badge.fury.io/js/@colussi%2Fprettier-config) [![CI](https://github.com/JonatanColussi/prettier-config/actions/workflows/main.yml/badge.svg?event=workflow_dispatch)](https://github.com/JonatanColussi/prettier-config/actions/workflows/main.yml)
 
 Shared [Prettier](https://prettier.io) configuration.
 
